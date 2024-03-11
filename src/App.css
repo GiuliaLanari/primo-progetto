@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.grey {
+  font-size: 36px;
+  margin-block: 2rem;
+  background-color: #282c34;
+  color: #61dafb;
+  border-radius: 5px;
+  padding-inline: 1rem;
+}
+
+.grey:hover {
+  box-shadow: 1px 1px 1px #69d5f3;
+}
+
+.green {
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #54f04f;
+  padding: 1rem;
+  border-radius: 10rem;
+  border: none;
+  margin-block: 1rem;
+}
+
+.green:hover {
+  box-shadow: 2px 2px 2px #1d5f08;
+}
+
+.width-img {
+  width: 50%;
+}
