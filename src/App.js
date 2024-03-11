@@ -19,11 +19,13 @@ function App() {
         <ButtonComponent testoButton="More info!" class={"green"} />
         <ImageComponent
           src="https://images.pexels.com/photos/792381/pexels-photo-792381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-          alt="tigre"
+          alt="Tiger"
+          color={"white"}
         />
         <ImageComponent
           src="https://images.pexels.com/photos/52500/horse-herd-fog-nature-52500.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-          alt="cavalli"
+          alt="Horses"
+          color={"black"}
         />
       </header>
     </div>

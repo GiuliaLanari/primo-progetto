@@ -70,3 +70,15 @@
   width: 50%;
   border-radius: 10px;
 }
+
+.white {
+  margin-block-start: 0;
+  background-color: white;
+  color: black;
+}
+
+.black {
+  margin-block-start: 0;
+  background-color: black;
+  color: white;
+}

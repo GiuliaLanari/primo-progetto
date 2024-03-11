@@ -5,6 +5,7 @@ class ImageComponent extends Component {
     return (
       <div>
         <img src={this.props.src} alt={this.props.alt} className="width-img"></img>
+        <h4 className={this.props.color}>{this.props.alt}</h4>
       </div>
     );
   }
