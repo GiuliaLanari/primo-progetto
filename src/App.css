@@ -44,6 +44,7 @@
   color: #61dafb;
   border-radius: 5px;
   padding-inline: 1rem;
+  cursor: pointer;
 }
 
 .grey:hover {
@@ -58,6 +59,7 @@
   border-radius: 10rem;
   border: none;
   margin-block: 1rem;
+  cursor: pointer;
 }
 
 .green:hover {
