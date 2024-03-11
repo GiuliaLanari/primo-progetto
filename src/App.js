@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import ButtonComponent from "./components/ButtonComponent";
-import ImageComponent from "./components/ImageComponent";
+import ButtonComponent from "./components/Button/ButtonComponent";
+import ImageComponent from "./components/Image/ImageComponent";
 
 function App() {
   return (
